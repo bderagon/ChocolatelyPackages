@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>Droid4x</id>
+    <title>Droid4x - Android Simulator</title>
+    <version>0.10.1</version>
+    <authors>Haiyu Dongxiang Co., Ltd.</authors>
+    <owners>Brian Deragon</owners>
+    <summary>Droid4x is the best Android simulator ever.</summary>
+    <description>Droid4x is the best Android simulator ever, which leads in aspects of performance, user experience, compatibility and gaming controllability. Making millions of mobile games and apps as desktop experience.
+    </description>
+    <projectUrl>http://www.droid4x.com/</projectUrl>
+    <tags>android emulator simulator droid4x admin</tags>
+    <licenseUrl>http://www.droid4x.com/mzsm.html</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://pbs.twimg.com/profile_images/530693068526067713/hpEJyKos.png</iconUrl>
+    <releaseNotes>http://www.droid4x.com/bbs/viewthread.php?tid=743890&extra=page%3D1</releaseNotes>
+    <packageSourceUrl></packageSourceUrl>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>

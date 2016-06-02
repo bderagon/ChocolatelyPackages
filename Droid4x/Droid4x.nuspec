@@ -15,7 +15,7 @@
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>https://pbs.twimg.com/profile_images/530693068526067713/hpEJyKos.png</iconUrl>
     <releaseNotes>http://www.droid4x.com/bbs/viewthread.php?tid=743890&extra=page%3D1</releaseNotes>
-    <packageSourceUrl></packageSourceUrl>
+    <packageSourceUrl>https://github.com/bderagon/ChocolatelyPackages</packageSourceUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
